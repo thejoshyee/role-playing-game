@@ -1,7 +1,7 @@
 # Scrimba - Role Playing Game
 
 ## About
-Creat an interactive role playing gaming using Javascript! 
+Create an interactive role playing gaming using Javascript! 
 
 ## Learning
 - Javascript 
