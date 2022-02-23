@@ -14,3 +14,7 @@ Create an interactive role playing gaming using Javascript!
 
 ## Preview
 <img src="https://github.com/thejoshyee/role-playing-game/blob/main/rpg-preview.png" width="50%" />
+
+
+## Live Demo
+<a href="https://naughty-dubinsky-4e4b66.netlify.app/">Role Playing Game</a>
