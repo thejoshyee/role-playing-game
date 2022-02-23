@@ -1,5 +1,15 @@
 import { getDiceRollArray, getDicePlaceholderHtml, getPercentage } from './utils.js'
 
+/*
+Challenge
+1. Convert the constructor function to a class.
+
+    Think about:
+    1. Where do properties go?
+    2. Where do Methods go?
+*/
+
+
 class Character {
     constructor(data) {
         Object.assign(this, data)
